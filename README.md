@@ -43,7 +43,21 @@ Send the commit on main protection branch it will pending.
 
 ![chrome_tl9dIqqHNQ](https://user-images.githubusercontent.com/71556060/176155529-1d2e395d-72f3-4115-af31-7b67dce82558.png)
 
+on the admin user site recived the pull request on commit the code
 
+![image](https://user-images.githubusercontent.com/71556060/176379273-95e182d3-2f12-4e62-99c1-ce624d372390.png)
+
+now view the changes and approve it.
+
+![image (1)](https://user-images.githubusercontent.com/71556060/176379505-941c0b7e-c424-460f-bdfd-6bd254a6517a.png)
+
+now you can merge the request, on the specific branch ,i used the main.
+
+![image (2)](https://user-images.githubusercontent.com/71556060/176380029-f21558a3-3ecc-428e-b7a3-7a6da0c6b496.png)
+
+now its all done , noew you have the option to delete the branch which is tempraraliy created  ranch formate like (username_patch_no.#) 
+
+![image (3)](https://user-images.githubusercontent.com/71556060/176380127-5c08a186-f38a-40ec-8d28-841f2c5d4006.png)
 
 
 [LINK]: https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/managing-a-branch-protection-rule
