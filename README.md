@@ -62,4 +62,7 @@ now its all done , noew you have the option to delete the branch which is tempra
 
 [LINK]: https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/managing-a-branch-protection-rule
 
+additional links for slides view:
+[LINK]:https://dev.to/syedasadrazadevops/how-to-protect-specific-branch-merge-on-git-push-43e9
+
 
